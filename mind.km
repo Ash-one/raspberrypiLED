@@ -1,0 +1,90 @@
+{
+    "root": {
+        "data": {
+            "id": "c8u42zkqfvc0",
+            "created": 1611768030936,
+            "text": "音乐与灯光的映射"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c8u43r9b1eo0",
+                    "created": 1611768091195,
+                    "text": "（目前）一个音乐特征对一个灯光特征？"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c8u46vmktd40",
+                            "created": 1611768335797,
+                            "text": "有些音乐特征本身没有可视化的图形"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c8u4bmjdteo0",
+                            "created": 1611768707834,
+                            "text": "什么图形能唤醒人的什么感觉没有确切的来源，没有办法判断优劣",
+                            "priority": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c8u4f79l1zs0",
+                            "created": 1611768988046,
+                            "text": "LED灯阵相比舞台灯光更像一块屏幕，显示的内容本应更加复杂"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c8u4414y18o0",
+                    "created": 1611768112699,
+                    "text": "（论文中）得到情感特征再映射到灯光？"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c8u44lhts5k0",
+                            "created": 1611768157014,
+                            "text": "情感模型没有很多可动态显示的内容，只是颜色"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c8u45gztmd40",
+                            "created": 1611768225582,
+                            "text": "偏向于做音乐情感分类，现在开始做会不会有点晚？"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c8u4iq3i8q80",
+                            "created": 1611769264130,
+                            "text": "浙大通过调查建立灯光动作和色彩的联系、灯光动作情感与音乐情感的联系"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8u53obf5tk0",
+                                    "created": 1611770905903,
+                                    "text": "没有从音乐提取情感的部分"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

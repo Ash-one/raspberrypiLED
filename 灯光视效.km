@@ -1,0 +1,151 @@
+{
+    "root": {
+        "data": {
+            "id": "c8udpsvunds0",
+            "created": 1611795208736,
+            "text": "灯光视效"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c8udpxnyou80",
+                    "created": 1611795219143,
+                    "text": "强度"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c9hbn8cp0xs0",
+                            "created": 1614125244097,
+                            "text": "响度db"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c8udq33fy6w0",
+                    "created": 1611795230963,
+                    "text": "变换速度"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c8udyijn9eo0",
+                            "created": 1611795891508,
+                            "text": "beats"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c8udqclw1qg0",
+                    "created": 1611795251669,
+                    "text": "颜色（饱和度+色相）"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c8udynam4wo0",
+                            "created": 1611795901845,
+                            "text": "情感",
+                            "progress": 1
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c8udqhhhqig0",
+                    "created": 1611795262287,
+                    "text": "图形"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c8udqoeflco0",
+                    "created": 1611795277340,
+                    "text": "动作"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c8udqzl1kxk0",
+                            "created": 1611795301684,
+                            "text": "波浪"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9gy3l9vrmg0",
+                                    "created": 1614087030513,
+                                    "text": "rolloff"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c9hbnczwkc80",
+                            "created": 1614125254208,
+                            "text": "彩虹流动"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9hbngxoyw00",
+                                    "created": 1614125262781,
+                                    "text": "rms"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c9ngjr8jgs00",
+                            "created": 1614748437038,
+                            "text": "异步频闪"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9ngjz6z8ko0",
+                                    "created": 1614748454358,
+                                    "text": "tempo"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c8udr7ijvco0",
+                            "created": 1611795318948,
+                            "text": "呼吸"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9hbnq3c2jk0",
+                                    "created": 1614125282713,
+                                    "text": "beats"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

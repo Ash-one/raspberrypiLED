@@ -2,6 +2,7 @@ import librosa
 import numpy as np
 from gledmatrix import *
 from gaudio import *
+import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-c', '--clear', action='store_true', help='clear the display on exit')
